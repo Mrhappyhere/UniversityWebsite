@@ -1,3 +1,4 @@
+
 # UniversityWebsite
 
 UniversityWebsite Using HTML CSS and JavaScript
@@ -6,7 +7,7 @@ UniversityWebsite Using HTML CSS and JavaScript
 https://mrhappyhere.github.io/UniversityWebsite/
 
 # Preview
-
+![previewuniweb](https://user-images.githubusercontent.com/80676763/140010591-315f14b3-65ce-405a-b735-a53388b218f5.jpeg)
 
 # License and copyright
 © MrHappyhere
